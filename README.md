@@ -1,3 +1,5 @@
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+
 <div align="center">
   # 💫 About Me: Hi 👋, I'm M Fauzi Ridwan 
  
